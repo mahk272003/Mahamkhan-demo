@@ -1,3 +1,3 @@
 # Mahamkhan-demo
-Tis is my first repository
+This is my first repository
 Author- Maham Khan
